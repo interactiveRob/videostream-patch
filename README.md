@@ -22,6 +22,7 @@ Install this extension if you aren't seeing a list of cast devices when you clic
 
 ### Reload Videostream
 - Once installed, close and re-open Videostream. Casting should now work!
+- If successful you'll see "Videostream has been patched" in the console
 
 <br/>
 
