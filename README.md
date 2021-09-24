@@ -1,4 +1,4 @@
-![Videostream icon with a bandaid](https://github.com/interactiveRob/videostream-patch/blob/master/icon128.png?raw=true)
+<img width="128" alt="Videostream icon with a band-aid" src="https://github.com/interactiveRob/videostream-patch/blob/master/icon128.png?raw=true" />
 
 # Videostream Patch (Unofficial)
 A Chrome Extension made to patch broken Videostream Casting in newer versions of Chrome.
