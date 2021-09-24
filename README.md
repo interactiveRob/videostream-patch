@@ -33,7 +33,7 @@ Install this extension if you aren't seeing a list of cast devices when you clic
 
 <br/>
 
-## Support me here:
+## Throw me a bone:
 https://www.buymeacoffee.com/interactiverob
 
 ## Author: 
