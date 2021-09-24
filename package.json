@@ -1,0 +1,14 @@
+{
+  "name": "videostream-patch",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "sideEffects": false,
+  "browserslist": [
+    ">0.25%",
+    "ie >= 10"
+  ],
+  "license": "MIT"
+}

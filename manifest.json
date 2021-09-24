@@ -1,0 +1,13 @@
+{
+    "name": "Videostream Patch (Unofficial)",
+    "version": "1.0",
+    "description": "Not developed by the Videostream team. Patches broken Videostream Casting in newer versions of Chrome. Tested Chrome 94.0.4606.61",
+    "icons": {  "128": "icon128.png" },
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content/content.js"]
+        }
+    ]
+}
