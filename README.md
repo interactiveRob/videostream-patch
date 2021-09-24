@@ -15,7 +15,7 @@ Install this extension if you aren't seeing a list of cast devices when you clic
 ### Install the extension
 - Download the latest zip of the extension here from [the Releases Page](https://github.com/interactiveRob/videostream-patch/releases)
 - Unzip the downloaded zip archive
-- Open the Extension Management page by navigating to `chrome://extensions`.
+- Open the Extension Management page by navigating to [chrome://extensions](chrome://extensions) in your browser.
 - Alternatively, open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu.
 - Enable Developer Mode by clicking the toggle switch next to Developer mode.
 - Click the Load unpacked button and select the extension directory.
